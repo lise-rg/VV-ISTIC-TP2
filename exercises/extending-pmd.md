@@ -25,7 +25,7 @@ Use your rule with different projects and describe you findings below. See the [
 
 The project that we choose is `Apache Commons Math`.
 After running the following command : `pmd check -f html --rulesets=commons-math/rulesets/java/quickstart.xml -d commons-math -r resultExtendedPMD.html`
-We got the list of all the problems that PMD founded with our new rule. (cf rule in the "Exercice 3" folder)
+We got the list of all the problems that PMD founded with our new rule. (cf rule in the "Code/Exercise3" folder)
 
 Here an example of nested if in the file : `\commons-math\commons-math-core\src\main\java\org\apache\commons\math4\core\jdkmath\AccurateMath.java` line 540 :
 
