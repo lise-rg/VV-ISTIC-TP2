@@ -37,7 +37,7 @@ public class Example {
 }
 ```
 We can create the graph associated :
-![alt text](https://github.com/lise-rg/VV-ISTIC-TP2/tree/main/exercises/imagetcclcc.png)
+![GraphTCCLCC](https://github.com/lise-rg/VV-ISTIC-TP2/tree/main/exercises/imagetcclcc.png)
 
 With this graph, we can calculate TCC and LCC.
 We have TCC = 3/3 = 1 LCC = 3/3 = 1
