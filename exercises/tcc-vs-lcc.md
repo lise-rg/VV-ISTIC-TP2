@@ -37,10 +37,11 @@ public class Example {
 }
 ```
 We can create the graph associated :
+![alt text](https://github.com/lise-rg/VV-ISTIC-TP2/tree/main/exercises/imagetcclcc.png)
 
 With this graph, we can calculate TCC and LCC.
 We have TCC = 3/3 = 1 LCC = 3/3 = 1
 Whith this example, both metrics produce equal values.
 
 We never can have LCC < TCC because direct connections counted for TCC will necessarily be counted in LCC as well.
-So we can say that LCC >= TCC.
+Then, we can say that LCC >= TCC.
